@@ -104,7 +104,3 @@ if prompt := st.chat_input("Describe the injury or situation…"):
 
     except Exception as e:
         st.error(f"⚠️ CareBot error: {e}")
-                                                                                                                                                                      83,9          70%
-
-
-
